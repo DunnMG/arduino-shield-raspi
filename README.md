@@ -7,4 +7,4 @@ Original copies can be found at:
 
 ![RasPiO Duino](http://rasp.io/wp-content/uploads/2015/04/RasPiO-Duino-cover-219x300.png)
 
-...which can be found at http://rasp.io/duino-programming/
+
