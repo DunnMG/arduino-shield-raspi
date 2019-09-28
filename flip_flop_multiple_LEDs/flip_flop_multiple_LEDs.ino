@@ -4,7 +4,7 @@
  */
  
 // Make an array of pins connected to leds
-int leds[] = {9, 10, 13};
+int leds[] = {9, 10, 11};
 int ledCount = 3;
 int time_delay = 1000;   // set time delay (mS) duration here
 
